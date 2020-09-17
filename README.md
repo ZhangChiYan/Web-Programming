@@ -2,6 +2,10 @@
 #### Web程式設計期末專題
 ##### 製作/資料蒐集: 1061407 張慈殷 
 
+![HTML](https://img.shields.io/badge/HTML-red.svg?)
+![CSS](https://img.shields.io/badge/CSS-blue.svg?)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?)
+
 <p align="left">
     <img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/1600316865749.jpg" width="400" height="250"/>
     <br>
