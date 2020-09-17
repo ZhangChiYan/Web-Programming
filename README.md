@@ -1,16 +1,15 @@
 # E-COMMERC
-#### (大一)Web程式設計期末專題
+#### Web程式設計期末專題
 ##### 製作/資料蒐集: 1061407 張慈殷 
 
-[Imgur](https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/1600316865749.jpg)
+<p align="left">
+    <img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/1600316865749.jpg" width="400" height="250"/>
+    <br>
+    <img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/messageImage_1600316937356.jpg" width="400" height="250"/><img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/messageImage_1600316928609.jpg" width="400" height="249"/>
+    <img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/messageImage_1600316968115.jpg" width="400" height="250"/><img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/messageImage_1600316977353.jpg" width="400" height="249"/>
+    <img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/messageImage_1600316992822.jpg" width="400" height="250"/><img src="https://github.com/ZhangChiYan/Web-Programming/blob/master/mduse.img/messageImage_1600317002896.jpg" width="400" height="249"/>
+</p>
 
-[Imgur](https://i.imgur.com/FgQ6PBTundefined.jpg)
-[Imgur](https://i.imgur.com/K248G7Kundefined.jpg)
-[Imgur](https://i.imgur.com/6o0c3N6undefined.jpg)
-[Imgur](https://i.imgur.com/4aIjWLIundefined.jpg)
-[Imgur](https://i.imgur.com/DIdasZiundefined.jpg)
-[Imgur](https://i.imgur.com/aU6HIf1undefined.jpg)
-[Imgur](https://i.imgur.com/izRILlpundefined.jpg)
 
 ## Overview
 - Why People Shopping Online ?
