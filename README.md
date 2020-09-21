@@ -1,5 +1,5 @@
 # E-COMMERC
-#### Web程式設計期末專題
+#### Web程式設計
 ##### 製作/資料蒐集: 1061407 張慈殷 
 
 ![HTML](https://img.shields.io/badge/HTML-red.svg?)
